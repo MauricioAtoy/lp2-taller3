@@ -7,13 +7,10 @@
 
 ## Autores
 
-- [@estudiante](https://www.github.com/estudiante)
+- [@Javier Mauricio Llanos Atoy](https://github.com/MauricioAtoy/lp2-taller3)
 
 ## Descripción del Proyecto
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam dolor. Quisque elementum est sed massa gravida convallis. Donec volutpat turpis eget lectus feugiat congue. Morbi rutrum auctor eleifend. Etiam iaculis libero tellus, vel aliquet erat tempor sed. Duis efficitur quam vel sapien luctus, sed semper lacus mollis. Suspendisse non nunc eleifend, aliquet elit eget, condimentum augue.
-
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel nibh fringilla, porta elit vel, consequat libero. Nulla et libero ac nulla ultricies sollicitudin. Sed viverra non nulla id convallis. Morbi vel varius lacus, in maximus nunc. Praesent sed semper diam. Pellentesque vehicula nulla augue, ut porta dolor consequat at.
+En el presente proyecto se desarrolla una aplicación web para la gestión imagenes meteorológicas. por medio de listas que son obtenidas por una API.
 
 ## Instalación
 
