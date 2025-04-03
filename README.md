@@ -13,8 +13,7 @@
 En el presente proyecto se desarrolla una aplicación web para la gestión imagenes meteorológicas. por medio de listas que son obtenidas por una API.
 
 ## Instalación
-
-Morbi quam lectus, tempus sit amet mi non, facilisis dignissim erat. Aenean tortor libero, rhoncus eu eleifend ut, volutpat id nisi. Ut porta eros at ante rutrum pharetra. Integer nec nulla dictum, vestibulum ligula id, hendrerit ex. Morbi eget tortor metus.
+ se usan las librerias de flask y pandas para la creación de la aplicación web.
 
 1. Clonar el proyecto
 ```bash
